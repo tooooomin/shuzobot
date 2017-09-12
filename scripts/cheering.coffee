@@ -17,7 +17,7 @@ SHUZO_DIALOG = [
   "涙よりも、血よりも、汗を流していたい"
   ]
 
-NEGATIVE_LIST = "疲れた|帰りたい|ねむ|死ぬ/i"
+NEGATIVE_LIST = "疲れた|帰りたい|ねむ|つら|死ぬ/i"
 
 module.exports = (robot) ->
 
